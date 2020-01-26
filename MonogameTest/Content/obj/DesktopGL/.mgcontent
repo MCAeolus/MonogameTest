@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/block.png</File>
+    <File>D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/drawTexture.png</File>
+    <File>D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/File.spritefont</File>
+    <File>D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/gridback.png</File>
+    <File>D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/trayBackground.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>DefaultFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

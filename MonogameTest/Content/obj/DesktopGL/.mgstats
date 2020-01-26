@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/block.png","D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/bin/DesktopGL/block.xnb","TextureProcessor","Texture2DContent",321,4181,0.1007301
+"D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/drawTexture.png","D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/bin/DesktopGL/drawTexture.xnb","TextureProcessor","Texture2DContent",155,89,0.0049864
+"D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/File.spritefont","D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/bin/DesktopGL/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.1436163
+"D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/gridback.png","D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/bin/DesktopGL/gridback.xnb","TextureProcessor","Texture2DContent",406,4181,0.0059846
+"D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/trayBackground.png","D:/Projects/MonogameTest/MonogameTest/MonogameTest/Content/bin/DesktopGL/trayBackground.xnb","TextureProcessor","Texture2DContent",1388,320085,0.1276582
